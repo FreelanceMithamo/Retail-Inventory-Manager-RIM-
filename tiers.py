@@ -6,7 +6,7 @@ admin panel all read from this file.
 
 TIERS = {
     "Bronze": {
-        "price_kes": 1500,
+        "price_kes": 4500,
         "tagline": "Get the basics right",
         "reports": ["Stockouts", "Replenishment suggestions"],
         "features": [
@@ -19,7 +19,7 @@ TIERS = {
         "color": "#CD7F32",
     },
     "Silver": {
-        "price_kes": 3500,
+        "price_kes": 7500,
         "tagline": "Full visibility, fewer losses",
         "reports": ["Stockouts", "Replenishment", "Overstock", "Aged stock"],
         "features": [
@@ -33,7 +33,7 @@ TIERS = {
         "color": "#9CA3AF",
     },
     "Platinum": {
-        "price_kes": 6500,
+        "price_kes": 10500,
         "tagline": "Built for expiry-sensitive stock",
         "reports": ["Stockouts", "Replenishment", "Overstock", "Aged stock", "Short expiries"],
         "features": [
